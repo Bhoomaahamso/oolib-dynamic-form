@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Form](image.png)
+![Form](../image.png)
 
 ## Project Overview
 
